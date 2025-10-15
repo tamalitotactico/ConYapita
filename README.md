@@ -62,5 +62,3 @@ Esto abrirá el servidor de desarrollo de Expo. Puedes escanear el QR con la app
 - Asegúrate de tener configuradas las variables de entorno necesarias para conectar con Supabase.
 - Consulta la documentación de Expo y Supabase para más detalles sobre configuración avanzada.
 
----
-Hecho con ❤️ por el equipo de ConYapita.
